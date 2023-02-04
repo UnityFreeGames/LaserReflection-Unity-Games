@@ -1,6 +1,6 @@
 # LaserReflection-Unity-Games
 <br />
-Video tutorial part :https://youtu.be/90nCDv7e4LM<br />
+Video tutorial:https://youtu.be/90nCDv7e4LM<br />
 
 Group :https://t.me/Unity_Free_Source<br /><br />
 🎨Game Artist : https://t.me/maria_artgallery<br />
